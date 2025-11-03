@@ -20,14 +20,14 @@ Projet : concevoir un jeu sérieux
   - Apollon me voilà : apprendre a faire du sport correctement, corriger les postures n co
   - Il est bizarre ce mot : apprendre l'orthographe en utilisant l'étymologie des mots comme base ludique
   - Il marche encore ce truc ?! : traçage/ suivit de la maintenance des équipements médicaux 
- 
-  répartition des tâches
-
-  Site internet -> Ramdane (supporté par moi et X)
-  Scénario 1 : Abderahamane et Lahat
-  Scénario 2 : Zined, ziad, Mohamed
-
-  Réfléxions sur le plan du site
+   
+  répartition des tâches  
+  
+  Site internet -> Ramdane (supporté par moi et X)  
+  Scénario 1 : Abderahamane et Lahat  
+  Scénario 2 : Zined, ziad, Mohamed  
+   
+  Réfléxions sur le plan du site :  
   langage utilisé, apparence, comportement...
 
   
