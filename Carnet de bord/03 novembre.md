@@ -19,7 +19,7 @@ Projet : concevoir un jeu sérieux
   - Psychologie en vrac : Impact de la santé mental sur la vie quotidienne et comment faire pour en prendre soin
   - Apollon me voilà : apprendre a faire du sport correctement, corriger les postures n co
   - Il est bizarre ce mot : apprendre l'orthographe en utilisant l'étymologie des mots comme base ludique
-  - Il marche encore ce truc ?! : traçage/ suivit de la maintenance des équipements médicaux (et pourquoi pas gpt ˆˆ)
+  - Il marche encore ce truc ?! : traçage/ suivit de la maintenance des équipements médicaux 
  
   répartition des tâches
 
