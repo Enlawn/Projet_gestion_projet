@@ -6,7 +6,7 @@ Mais comment :
               - vérifier la maîttrise de la connaissance présenté dans la mission pour passer à la difficulté supérieure
 
 On a plusieurs axes de développement possible :
-- On peut s'inspirer des applis comme duolingo / Chess / Geoguessr -> le plus simple se baser sur un format Squizz/Kculture, meaning 2eme format -> même pour le site web reprendre une interface similaire avec : quizz d'intro du cours / cours / quizz vérification des acquis  
+- On peut s'inspirer des applis comme duolingo / Chess / Geoguessr 
 - On peut utiliser le format de Cours + Quizz "classique"
 
   Le 1er format sera vraiment interractif : l'utilisateur devra cliquer/écrire / interagir avec le contenu pour répondre
@@ -14,3 +14,4 @@ On a plusieurs axes de développement possible :
 
   Avec le 1er format, il faudra arriver à modéliser, de manière rudimentaire, une interface windows / GNU Linux pour que l'utilisateur puisse directement tester ce qu'il apprend directement sur le site
   Avec le 2nd format, l'utilisateur devra, tester les compétences montrées directement sur sa machine
+-> le plus simple se baser sur un format Squizz/Kculture, meaning 2eme format -> même pour le site web reprendre une interface similaire avec : quizz d'intro du cours / cours / quizz vérification des acquis  
