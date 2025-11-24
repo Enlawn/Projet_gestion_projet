@@ -1,8 +1,8 @@
 Réflexion sur comment modeler/construire la partie jeu du projet  
 On a déjà une base pour le contenu du jeu <=> les scénarios du jeu / les missions que devront réaliser les joueurs  
 Mais comment :  
-              - Valider une mission
-              - gagner des points 
+              - Valider une mission  
+              - gagner des points   
               - vérifier la maîttrise de la connaissance présenté dans la mission pour passer à la difficulté supérieure  
 
 On a plusieurs axes de développement possible :  
