@@ -1,4 +1,4 @@
-Réflexion (30 min max par jour ) sur comment modeler/construire la partie jeu du projet  
+Réflexion sur comment modeler/construire la partie jeu du projet  
 On a déjà une base pour le contenu du jeu <=> les scénarios du jeu / les missions que devront réaliser les joueurs
 Mais comment :  
               - Valider une mission
@@ -6,8 +6,8 @@ Mais comment :
               - vérifier la maîttrise de la connaissance présenté dans la mission pour passer à la difficulté supérieure
 
 On a plusieurs axes de développement possible :
-- On peut s'inspirer des applis comme duolingo / Chess / Geoguessr 
-- On peut utiliser le format de Cours + Quizz "classique"
+- On peut s'inspirer des applis comme duolingo / Chess / Geoguessr / 
+- On peut utiliser le format de Cours + Quizz "classique" -> Squizz/ Kculture
 
   Le 1er format sera vraiment interractif : l'utilisateur devra cliquer/écrire / interagir avec le contenu pour répondre
   Le 2nd format est beaucoup plus simple à implémenter : On explique, de manière textuel, imagé/schématique, par vidéo courte une notion et ensuite à la fin on fait un Quizz qui permet de tester les connaissances vues pendant le cours.
