@@ -1,5 +1,5 @@
-Le jeu, c'est quoi ?
-Un tutotriel ludique sur la prise en main des OS windows (11 en particulier, vu qu'on nous force la main à aller vers lui) et Linux (distribution choisi par randame).
+Le jeu, c'est quoi ?  
+Un tutotriel ludique sur la prise en main des OS windows (11 en particulier, vu qu'on nous force la main à aller vers lui) et Linux (distribution choisi par randame).  
 2 approches : 
 - lignes de commande en linux
 - en bon cookie cliqueur, on clique
