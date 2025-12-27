@@ -465,3 +465,191 @@ ouvrir le gestionnaire de périphériques,
 gérer la sécurité (BitLocker, protection du système).
 
 C’est une partie essentielle pour la gestion avancée et la maintenance du PC.
+EXAMEN : PARAMÈTRES WINDOWS – SYSTÈME
+
+Module : Système d’exploitation / Informatique générale
+Durée : 1 heure
+Note : /20
+
+PARTIE 1 : QCM (15 points)
+
+Consigne : Pour chaque question, une seule réponse est correcte.
+Chaque question vaut 1 point.
+
+Q1. Quel est le rôle principal des paramètres Windows ?
+
+A. Installer le système d’exploitation
+B. Configurer, personnaliser et optimiser le PC
+C. Supprimer les fichiers système
+D. Créer des applications
+
+Réponse correcte : B
+
+Q2. Quel raccourci clavier permet d’ouvrir directement les paramètres Windows ?
+
+A. Ctrl + P
+B. Alt + Tab
+C. Windows + I
+D. Windows + D
+
+Réponse correcte : C
+
+Q3. Les paramètres Windows sont organisés sous forme de :
+
+A. Dossiers cachés
+B. Fichiers système
+C. Catégories claires
+D. Fenêtres aléatoires
+
+Réponse correcte : C
+
+Q4. La section « Système » permet principalement de gérer :
+
+A. Les jeux
+B. Le fonctionnement interne du PC
+C. La connexion Internet
+D. Les logiciels externes
+
+Réponse correcte : B
+
+Q5. La résolution de l’écran agit principalement sur :
+
+A. Le son
+B. La luminosité
+C. La netteté de l’image
+D. La batterie
+
+Réponse correcte : C
+
+Q6. Le mode nuit a pour rôle de :
+
+A. Réduire la consommation énergétique
+B. Réduire la lumière bleue
+C. Accélérer le système
+D. Augmenter la luminosité
+
+Réponse correcte : B
+
+Q7. La section « Son » permet de :
+
+A. Gérer le stockage
+B. Choisir le périphérique audio
+C. Installer des pilotes
+D. Gérer le Wi-Fi
+
+Réponse correcte : B
+
+Q8. Les actions rapides sont accessibles depuis :
+
+A. Le gestionnaire de tâches
+B. Le centre de notifications
+C. Le bureau
+D. Le menu Démarrer
+
+Réponse correcte : B
+
+Q9. L’Assistant de concentration permet de :
+
+A. Bloquer certaines notifications
+B. Supprimer des fichiers temporaires
+C. Nettoyer le disque
+D. Augmenter les performances
+
+Réponse correcte : A
+
+Q10. Le mode « alarmes uniquement » permet d’afficher :
+
+A. Toutes les notifications
+B. Les notifications prioritaires
+C. Uniquement les alarmes
+D. Aucune notification
+
+Réponse correcte : C
+
+Q11. Les paramètres d’alimentation servent à :
+
+A. Gérer la connexion réseau
+B. Régler le temps de mise en veille
+C. Modifier l’affichage
+D. Installer des applications
+
+Réponse correcte : B
+
+Q12. La section « Stockage » permet de :
+
+A. Visualiser l’espace disque utilisé
+B. Gérer le son
+C. Configurer le Bluetooth
+D. Modifier la mémoire RAM
+
+Réponse correcte : A
+
+Q13. Le multitâche permet principalement de :
+
+A. Gérer la batterie
+B. Utiliser plusieurs fenêtres efficacement
+C. Nettoyer le système
+D. Sécuriser le PC
+
+Réponse correcte : B
+
+Q14. Le partage de proximité utilise principalement :
+
+A. Le câble USB
+B. Le réseau Ethernet
+C. Le Bluetooth et le Wi-Fi
+D. Le HDMI
+
+Réponse correcte : C
+
+Q15. Le raccourci Windows + V permet d’accéder :
+
+A. Au gestionnaire de tâches
+B. À l’historique du presse-papiers
+C. Aux paramètres système
+D. Au bureau à distance
+
+Réponse correcte : B
+
+PARTIE 2 : QUESTIONS DE COURS (5 points)
+Q16. (2 points)
+
+Citer deux objectifs des paramètres Windows.
+
+Réponses attendues (au choix) :
+
+Faciliter l’utilisation du PC
+
+Améliorer le confort et l’ergonomie
+
+Gérer simplement le matériel et les logiciels
+
+Adapter le système aux différents usages
+
+Q17. (1,5 point)
+
+Donner deux exemples de périphériques pouvant être connectés via Bluetooth.
+
+Réponses possibles :
+
+Souris
+
+Clavier
+
+Casque
+
+Imprimante
+
+Q18. (1,5 point)
+
+Citer deux informations disponibles dans la section « À propos de ».
+
+Réponses possibles :
+
+Processeur
+
+Mémoire RAM
+
+Version de Windows
+
+Numéro de build
