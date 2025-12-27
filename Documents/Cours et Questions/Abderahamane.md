@@ -2,7 +2,7 @@
 <!-- partie qui sera sur la page d'acceuil et qui présente ce qu'est l'OS WINDOWS -->  
 Je pense qu'on peux, de nos jours, se permettre de dire que le premier ordinateur que vous avez eu entre les mains était un ordinateur Windows.  
 D'après les sites de chart, Windows domine l'univers des systèmes d'exploitations avec plus de 69 % des ordinateurs en fonctionnement dans le monde recensé comme tournant sous une version de Windows.  
-<img width="1280" height="720" alt="StatCounter-os_combined-ww-monthly-202411-202511" src="https://github.com/user-attachments/assets/343da9e6-9b70-4440-a1c6-db91dc791499" />
+<img width="800" height="450" alt="StatCounter-os_combined-ww-monthly-202411-202511" src="https://github.com/user-attachments/assets/343da9e6-9b70-4440-a1c6-db91dc791499" />
 
 Pourquoi ?  
 Et surtout comment Microsoft peut-il autant dominer un secteur aussi important ?  
