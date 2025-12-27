@@ -468,8 +468,6 @@ C’est une partie essentielle pour la gestion avancée et la maintenance du PC.
 EXAMEN : PARAMÈTRES WINDOWS – SYSTÈME
 
 Module : Système d’exploitation / Informatique générale
-Durée : 1 heure
-Note : /20
 
 PARTIE 1 : QCM (15 points)
 
