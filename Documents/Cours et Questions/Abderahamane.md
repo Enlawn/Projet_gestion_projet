@@ -2,7 +2,8 @@
 <!-- partie qui sera sur la page d'acceuil et qui présente ce qu'est l'OS WINDOWS -->  
 Je pense qu'on peux, de nos jours, se permettre de dire que le premier ordinateur que vous avez eu entre les mains était un ordinateur Windows.  
 D'après les sites de chart, Windows domine l'univers des systèmes d'exploitations avec plus de 69 % des ordinateurs en fonctionnement dans le monde recensé comme tournant sous une version de Windows.  
-<div id="desktop-os_combined-ww-monthly-202411-202511" width="600" height="400" style="width:600px; height: 400px;"></div><!-- You may change the values of width and height above to resize the chart --><p>Source: <a href="https://gs.statcounter.com/os-market-share/desktop/worldwide">StatCounter Global Stats - OS Market Share</a></p><script type="text/javascript" src="https://www.statcounter.com/js/fusioncharts.js"></script><script type="text/javascript" src="https://gs.statcounter.com/chart.php?desktop-os_combined-ww-monthly-202411-202511&chartWidth=600"></script>
+<img width="1280" height="720" alt="StatCounter-os_combined-ww-monthly-202411-202511" src="https://github.com/user-attachments/assets/343da9e6-9b70-4440-a1c6-db91dc791499" />
+
 Pourquoi ?  
 Et surtout comment Microsoft peut-il autant dominer un secteur aussi important ?  
 On ne va répondre qu'à une seule de ces questions.  
