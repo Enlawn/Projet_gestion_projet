@@ -32,6 +32,7 @@ Vous allumez un ordinateur, vous entrez le mot de passe, et vous arrivez sur le 
 icones = vignette contenant une image representant l'application ou le fichier, en dessous on a le nom de l'application ou du fichier.  
 le bureau peut être divisé en 2 partie, la barre des taches en bas de l'écran (encadrée en rouge) et le bureau à proprement parlé qui est le reste de l'écran sur lequel on a 4 icones de visibles.  
 <!-- les images prises proviennent directement de capture d'écran de mon pc -->
+<img width="800" height="450" alt="bureau" src="https://github.com/user-attachments/assets/60067dc4-d0df-4b76-8073-d890a8502b0b" />
 
 
 
@@ -56,6 +57,7 @@ C'est l'un des avantages de Windows, on a une application "ergonomique", "foncti
 Si on peut créer un dossier et y mettre des fichiers, c'est qu'on peut également y accéder, c'est pour celà qu'il est important de bien comprendre le fonctionnement de l'explorateur, histoire de ne pas avoir son rapport de projet qui s'enregistre entre 2 photos des vacances de l'été 2015 ~  
 Mais ça ressemble à quoi concrétement ?  
 <!-- NE pas oublier de mettre une image ici !!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
+<img width="800" height="473" alt="explorateur de fichier" src="https://github.com/user-attachments/assets/8bfdcefa-d781-4719-a98b-3ecc3cf942e2" />
 
 
 
@@ -113,7 +115,6 @@ Là aussi, 2 façon de faire :
 
 
 ---
-  
 Quizz :   
 
 
@@ -171,7 +172,6 @@ En soit 3 parties :
 
 
 ---
-  
 Quizz :   
 
 
@@ -220,8 +220,10 @@ dir /a [chemin d'accès]
 Affiche tous les fichiers et dossiers, même ceux cachés présent à l'adresse pointée par le chemin d'accès. 
 
 dir /b [chemin d'accès]  
-Affiche uniquement les noms de tous les fichiers et dossiers présent à l'adresse pointée par le chemin d'accès.  
+Affiche uniquement les noms de tous les fichiers et dossiers présent à l'adresse pointée par le chemin d'accès. 
+
 ---
+
 cd [chemin d'accès]  
 Permet de se déplacer vers l'adresse pointée par le chemin d'accès.  
 
@@ -230,7 +232,9 @@ Permet de remonter d'un niveau.
 
 cd \   
 Permet de remonter à la racine du lecteur courant.  
+
 ---
+
 mkdir [nom du dossier]  
 Crée un dossier dans le répertoire en cours d'utilisation.  
 
@@ -294,8 +298,8 @@ Copie tout les répertoires et fichiers vers la destination et les supprime de l
 
 ren [ancien nom] [nouveau nom]
 Renomme le fichier ou dossier.  
----
 
+---
 2. Commandes système  
 
 ipconfig
