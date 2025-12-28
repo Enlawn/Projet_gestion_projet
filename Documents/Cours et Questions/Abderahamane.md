@@ -1,7 +1,6 @@
----
+<!-- partie qui sera sur la page d'acceuil et qui présente ce qu'est l'OS WINDOWS --> 
 Introduction : Windows, c'est quoi ?  
-<!-- partie qui sera sur la page d'acceuil et qui présente ce qu'est l'OS WINDOWS -->  
-
+ 
 Je pense qu'on peut, de nos jours, se permettre de dire que le premier ordinateur que vous avez eu entre les mains était forcement un ordinateur Windows.  
 Les écoles primaires, collèges et lycées et même les universités sont équipés d'ordinateur tournant sous Windows. Question d'accessibilité et de comptatibilité avec la plupart des applications utilisés dans le milieu éducatif.  
 D'après les sites de chart, Windows domine l'univers des systèmes d'exploitations avec plus de 69 % des ordinateurs en fonctionnement dans le monde recensé comme tournant sous une version de Windows.  
