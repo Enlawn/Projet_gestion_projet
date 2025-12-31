@@ -1,5 +1,5 @@
 Les interfaces des navigateurs web modernes sont conçues pour optimiser l’accès à l’information tout en s’adaptant à la diversité des profils utilisateurs. Parmi les éléments centraux de ces interfaces figurent les barres de recherche, qui jouent un rôle essentiel dans la navigation et l’interaction avec le web.et là je vais donner une analyse de ces composants qui permet de mieux comprendre les choix ergonomiques et fonctionnels mis en œuvre afin d’améliorer l’expérience utilisateur.
-je vais commencer par expliquer : 
+je vais commencer par donner une petite explication d'interface  : 
 Interface d’un moteur de recherche (exemple : Windows / navigateur web) :
 Un moteur de recherche est un service informatique qui permet de rechercher des informations sur Internet à partir de mots-clés.
 Exemples : Google, Bing, Yahoo, DuckDuckGo. Il aide l’utilisateur à :rouver des sites web
@@ -111,7 +111,7 @@ Elle réduit la charge cognitive pour les utilisateurs débutants
 
 Elle favorise une interaction intuitive et immédiate
 
-et ses  Objectifs ça peut etre :
+et ses  Objectifs ça peut etre comme :
 
 Mettre la recherche au cœur de l’expérience utilisateur
 
