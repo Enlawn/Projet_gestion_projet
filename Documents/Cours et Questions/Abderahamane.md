@@ -295,41 +295,41 @@ Copie tous les répertoires et fichiers ainsi que leurs paramètres de sécurit�
 robocopy [source] [destination] /move  
 Copie tout les répertoires et fichiers vers la destination et les supprime de la source (équivalent du Couper Coller).  
 
-ren [ancien nom] [nouveau nom]
+ren [ancien nom] [nouveau nom]  
 Renomme le fichier ou dossier.  
 
 ---
 2. Commandes système  
 
-ipconfig
+ipconfig  
 Affiche l'interface réseau.  
 
-netsh wlan show profile
+netsh wlan show profile  
 Affiche les réseaux WiFi enregistrés sur l'ordinateur.  
 
-whoami
+whoami  
 Affiche le nom de l'utilisateur actuellement connecté
 
-shutdown [options]
+shutdown [options]  
 Arrête l'ordinateur selon les options spécifiées :
 - /s arrête l'ordinateur,
 - /r redemarre l'ordinateur,
 - /t [sec] définit un délai avec arrêt,
 - /a annule un arrêt en cours.
   
-tasklist
+tasklist  
 Répertorie tous les processus en cours (gestionnaire des tâches).  
 
-taskkill /IM [nom du programme]
+taskkill /IM [nom du programme]  
 Termine un processus dont on a spécifié le nom du programme qui l'exécute.  
 
-systeminfo
+systeminfo  
 Affiche les informations détaillées du systèmes.  
 
-driverquery
+driverquery  
 Affiche les pilotes installés, avec la date d'installation et l'état du pilote.  
 
-sfc /scannow
+sfc /scannow  
 Permet d'effectuer un diagnostique des fichiers systèmes windows et les réparer s'ils sont corrompus. 
 
 
