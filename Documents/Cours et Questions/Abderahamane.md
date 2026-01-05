@@ -1,5 +1,5 @@
 <!-- partie qui sera sur la page d'acceuil et qui présente ce qu'est l'OS WINDOWS --> 
-Introduction : Windows, c'est quoi ?  
+# Introduction : Windows, c'est quoi ?  
  
 Je pense qu'on peut, de nos jours, se permettre de dire que le premier ordinateur que vous avez eu entre les mains était forcement un ordinateur Windows.  
 Les écoles primaires, collèges et lycées et même les universités sont équipés d'ordinateur tournant sous Windows. Question d'accessibilité et de comptatibilité avec la plupart des applications utilisés dans le milieu éducatif.  
@@ -7,23 +7,23 @@ D'après les sites de chart, Windows domine l'univers des systèmes d'exploitati
 
 <img width="800" height="450" alt="StatCounter-os_combined-ww-monthly-202411-202511" src="https://github.com/user-attachments/assets/343da9e6-9b70-4440-a1c6-db91dc791499" />  
 
-Pourquoi ?  
+**Pourquoi ?**  
 Et surtout comment Microsoft peut-il autant dominer un secteur aussi important ?  
-On ne va répondre qu'à une seule de ces questions.  
+En expliquant pourquoi, on va répondre à la seconde question mais aussi à pourquoi les autres OS gagnent du terrain.  
   
 C'est génial de pouvoir allumer un ordinateur d'un appuie sur un bouton, puis, après avoir entré son mot de passe, accéder à une interface sur lequel tout est déjà disponible, il me suffit de cliquer sur une icone, la magie opére, et l'application s'ouvre.    
 Et vous savez ce qui est encore plus génial ?  
 C'est de ne pas avoir à coder toutes ces fonctionnalités, mais de simplement les utiliser ou les paramètrer !  
-Et c'est ça que propose Windows ! Une expérience clé en main, sans avoir à s'occuper de la partie compliqué.  
-Une interface graphique avec toutes les fonctionnalités disponibles de manière simple et "efficace" (mon collègue risque de me planter si je dis que windows c'est bien...).  
+Et c'est ça que propose Windows ! Une expérience clé en main, sans avoir à s'occuper de la partie compliquée.  
+Une interface graphique avec toutes les fonctionnalités disponibles de manière simple et "efficace" (mon collègue risque de me planter si je dis que windows c'est bien... et même le prof est allergique à Windows...).  
 Je ne vais pas faire la pub de Microsoft, en soit c'est ce que propose tout les OS disponible quel qu'ils soient : Windows, MacOS, les milles et une distribution Linux, Android, ChromeOS... etc.  
 Chacun ayant ces avantages et inconvénients.  
-Un OS, comprenez Operating System, en français, Système d'exploitation, c'est tout simplement ça, une interface graphique, avec toutes les fonctionnalités de base déjà codé et accessible, qu'importe votre niveau de connaissance en informatique/ technologie !  
-Et petit plus pour votre culture générale : l'OS de Microsoft s'appelle Windows parce qu'il est le premier à proposer une interface graphique dans lequel les applications sont contenu dans des sortes de boîtes, des "fênetres" !  
+Un OS, comprenez Operating System, en français, Système d'exploitation, c'est tout simplement ça, une interface graphique, avec les fonctionnalités de base déjà codé et accessible, qu'importe votre niveau de connaissance en informatique/ technologie !  
+Petit plus pour votre culture générale : l'OS de Microsoft s'appelle Windows parce qu'il est le premier à proposer une interface graphique dans lequel les applications sont contenu dans des sortes de boîtes, des "fênetres" !  
   
 Tout celà pour dire, que choisir un système d'exploitation, c'est choisir le type d'expérience que vous voulez avoir en utilisant votre appareil, et, dépendanment de l'utilisation que vous en faites, choisir le bon !  
 L'avantage de Windows ? La centralisation des fonctionnalités, tout se trouve au même endroit, pas besoin de chercher tel distribution qui me permettrait d'utiliser la touche échap de mon clavier...  
-L'inconvénient ? l'optimisation aux fraises... la quantité de ressource nécessaire pour juste faire tourner l'interface graphique... le control relativement faible de ce que l'on peut modifier.  
+L'inconvénient ? l'optimisation aux fraises... la quantité de ressource nécessaire pour juste faire tourner l'interface graphique (20 Go de stockage et 4 Go de RAM) ... le control relativement faible de ce que l'on peut modifier.  
 
 ---
 
@@ -37,8 +37,8 @@ le bureau peut être divisé en 2 partie, la barre des taches en bas de l'écran
 
 
 ---
-Explorateur de Fichier  
-Cours :   
+# Explorateur de Fichier  
+## Cours :   
   
 Avant de savoir ce que c'est, comment y accéder ?  
 - En appuyant sur l'icone : simple clique dans la barre des tâches (en bas) / double clique sur l'icone dans le bureau (cf présentation d'une fenetre de bureau si vous avez un trou de mémoire)  
@@ -49,7 +49,7 @@ Avant de savoir ce que c'est, comment y accéder ?
 
 *L'explorateur de fichier c'est quoi ?  
 C'est l'équivalent d'une armoire qui contient plein de classeurs ou trieurs dans lequel on peut créer des fichiers, nos documents, les rassembler dans un dossier et ensuite les organiser comme on le souhaite.   
-Cette armoire contient TOUS les fichiers contenu dans notre ordinateur.  
+Cette armoire contient TOUS les fichiers contenu dans notre ordinateur. 
 
 C'est l'un des avantages de Windows, on a une application "ergonomique", "fonctionnelle", facile d'utilisation et graphiquement agréable.  
   
@@ -58,9 +58,9 @@ Mais ça ressemble à quoi concrétement ?
 <!-- NE pas oublier de mettre une image ici !!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
 <img width="800" height="473" alt="explorateur de fichier" src="https://github.com/user-attachments/assets/8bfdcefa-d781-4719-a98b-3ecc3cf942e2" />
 
+C'est une déscription un peu basique de l'explorateur de fichier moderne disponible sur Windows 11 (et feu Windows 10).
 
-
-Fonctions utiles ?  
+**Fonctions utiles basiques**  
 - créer / supprimer
 - déplacer
 - renommer
@@ -69,14 +69,14 @@ Fonctions utiles ?
 
 On va détailler chaque fonction, pour être sur que vous puissiez les utiliser sans problèmes par la suite.  
 
-1. Déplacer un fichier ou un dossier
+**1. Déplacer un fichier ou un dossier**
 Probablement la première chose que vous allez faire, et surtout l'action que vous aller réaliser le plus souvent.
 Déplacer des fichiers sur Windows est très facile.
 - vous pouvez selectionner l'item (fichier ou dossier) et le faire glisser vers le dossier que vous voulez
 - Couper Coller l'item : vous selectionnez l'item, le coupez (clique droit couper ou ctrl + x) et le coller à l'endroit souhaité  
   
 
-2. Créer ou supprimer des fichiers   
+**2. Créer ou supprimer des fichiers**   
 Dans un classeur, la première chose que l'on fait c'est y stocker de manière organisé des feuilles et documents.   
 C'est pareil avec l'explorateur de fichier. On va vouloir organiser nos fichiers, qu'importe la nature du ficher.   
 L'une des façon de faire, et de créer directement un fichier dans l'explorateur de fichier. Vous n'allez pratiquement jamais le faire.  
@@ -86,15 +86,15 @@ Pour celà; vous devrez créer des dossiers :
 - pointer la souris sur "Nouveau", et vous trouverez un emsemble de proposition dont celui qui nous interesse, "Dossier", cliquez dessus.
 - Donnez un nom cohérent à votre dossier, appuyez sur entrer et le tour est joué !  
   
-3. Renommer un fichier, un dossier  
+**3. Renommer un fichier, un dossier**  
 Parfois, que ce soit parce que vous avez télechargé un fichier ou un dossier, ou parce que vous avez eu la flemme de correctement nommé un fichier/dossier (appellé ses fichiers aaaa et rajoutez des "a" à chaque nouveau fichier crée est une chose que je recommande pas...), vous devrez renommer l'item.  
 Pour cela, vous pouvez soit : 
 - Touche F2 du clavier
 - un clique sur l'item suivi d'un clique sur le nom de l'item
 - selectionner l'item, clique droit, renommer
   
-4. Ouverture d'un fichier / d'un dossier  
-Si vous avez par défault une application pouvant ouvrir le type de fichier souhaité, alors un double clique dessus permettra de l'ouvrir, vous pouvez aussi selectionner l'item et appuyer sur la touche "entrer".  
+**4. Ouverture d'un fichier / d'un dossier**  
+Si vous avez par défaut une application pouvant ouvrir le type de fichier souhaité, alors un double clique dessus permettra de l'ouvrir, vous pouvez aussi selectionner l'item et appuyer sur la touche "entrer".  
 Sinon si vous voulez ouvrir le fichier avec une application particulière, selectionnez le fichier et clique droit pour ouvrir le menu contextuel et ensuite choisir l'application souhaité dans l'onglet "Ouvrir avec".  
 Sinon, si vous n'avez pas d'application capable d'ouvrir le type de fichier que vous voulez, il va falloir installer une application pouvant lire le fichier.  
 Exemple : les fichier psd, psb sont des fichiers propre à l'application Photoshop de l'éditeur Adobe qui nécessite des applications spécifique pour l'ouvrir (pas forcemment besoin d'utiliser Photoshop, il existe pas mal d'alternatif gratuite comme GIMP).  
@@ -131,8 +131,9 @@ Quizz :
   
   
 ---
-Paramètrage avancé et Benchmarking  
-Les paramètres BIOS : une optimisation avancée mais dangereuse !  
+# Paramètrage avancé et Benchmarking  
+
+## Les paramètres BIOS : une optimisation avancée mais dangereuse !  
 Avec la partie paramètres, vous avez pu voir qu'il est possible de personnaliser et paramètrer plein de fonctionnalité de votre ordinateur windows. Mais, vous l'avez peut-être remarqué, les paramètres pour certaines catégories de fonctionnalités sont limité :  
 - les paramètres d'alimentation
 - les paramètres hardware : vitesses des ventilateurs, de la ram, du cpu
@@ -148,8 +149,8 @@ Tant de paramètres, qui quand vous lancez votre machine pour la première fois 
 Outre la sensation de lenteur visible, d'autre soucis d'optimisation "basique" peuvent entrainer une mauvaise expérience d'utilisation.  
 Mais comment savoir que j'ai un truc qui est mal paramètré, me direz-vous ?  
 Faites comme moi, souffrez en silence et passez des heures à lire la doc de vos composants et à vous perdre sur Reddit et faq des constructeurs de vos composants ?  
-Ou bien, demander à ChatGPT ou Gemini comme un de mes collègues qui à le cerveau lobotomisé par l'IA ?  
-Je vous propose une solution autre, qui vous permettra, en plus de vous faire une idée des performances de votre ordinateur, de pouvoir apprendre à l'entretenir par vous même et donc avoir une meilleur maîtrise de votre équipement.  
+Ou bien demander à ChatGPT ou Gemini au risque de ne jamais comprendre ce que vous lisez ? 
+Je vous propose une solution autre, qui vous permettra, en plus de connaître les performances de votre ordinateur, de pouvoir apprendre à l'entretenir par vous même et  d'avoir une meilleur maîtrise de votre équipement.  
 C'est le Benchmarking, mot anglais qui veut simplement dire faire une "analyse comparative à une base standardisée".  
 En gros, en va comparer les performances des composants de votre ordinateurs aux performances des mêmes composants chez d'autre personnes et des valeurs fournis par le constructeur.  
 C'est également le meilleur moyen de controler le coût de vos équipements informatiques !  
@@ -181,7 +182,7 @@ Quizz :
 
 
 ---
-Commande CMD Windows  
+# Commande CMD Windows  
   
 On les utilises énormement sur Linux, mais on peut retrouver leurs équivalents sur Windows, une petite présentation des lignes de commande sur Windows.   
 La plupart des utilisateurs Windows, MacOS et ChromeOS n'utiliseront jamais l'invite de commande (CMD), le Terminal ou l'interface PowerShell. Pourquoi ? Parce que nous en avons pas besoin. Les modifications et fonctionnalités qu'elles proposent sont complétement couvertes par d'autres applications à l'utilisation bien plus simple come l'explorateur de fichier, le panneau de configuration... etc.   
@@ -203,7 +204,7 @@ Le lien vers un cours fourni directement par Microsoft : https://learn.microsoft
 Je vais me contenter de vous présenter celle concernant la gestion des fichiers et répertoires et des commandes système utile.  
 je vais, très fortement m'inspirer de l'aide mémoire du site malekal.com et de celui de TechAbeille.fr  .  
   
-1. gestion des fichiers et des répertoires  
+**1. gestion des fichiers et des répertoires**  
   
 dir [chemin d'accès]  
 Permet d'afficher tous les fichiers et dossiers présent à l'adresse pointée par le chemin d'accès.  
@@ -344,3 +345,25 @@ Alors voici quelques lignes de commande utile pour programmer sur windows sans u
 ---
   
 Quizz :   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
