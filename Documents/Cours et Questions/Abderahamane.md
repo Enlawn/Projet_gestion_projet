@@ -186,13 +186,12 @@ Commande CMD Windows
 On les utilises énormement sur Linux, mais on peut retrouver leurs équivalents sur Windows, une petite présentation des lignes de commande sur Windows.   
 La plupart des utilisateurs Windows, MacOS et ChromeOS n'utiliseront jamais l'invite de commande (CMD), le Terminal ou l'interface PowerShell. Pourquoi ? Parce que nous en avons pas besoin. Les modifications et fonctionnalités qu'elles proposent sont complétement couvertes par d'autres applications à l'utilisation bien plus simple come l'explorateur de fichier, le panneau de configuration... etc.   
 Mais, cela ne veut pour autant pas dire qu'ils sont complétement obsolètes, ils restents des outils puissants qui permettent de controler votre machine avec de simple commande textuelle. Ils ont aussi un intérêt pédagogique parce qu'ils permettent de mieux comprendre le rôle du système d'exploitation.  
-Si vous devez traiter de nombreux fichiers et dossiers, PowerShell est un outil qui peut vous permettre d'automatiser vos taches "RÉPÉTITIVE".  
+Au passant, si vous devez traiter de nombreux fichiers et dossiers, PowerShell est un outil qui peut vous permettre d'automatiser vos taches "RÉPÉTITIVE".  
 
 Comment accéder à l'inviter de commande ? 
 MENU DEMARRER -> TAPER "cmd" DANS LA BARRE DE RECHERCHE.  
 
-
-ils sont répartis en plusieurs catégories :
+Il existe différents types de lignes de commande répartis en plusieurs catégories :
 - gestion des fichiers et répertoires,
 - gestions des disques,
 - commandes système,
@@ -336,7 +335,11 @@ Permet d'effectuer un diagnostique des fichiers systèmes windows et les répare
 
 En dehors des cours, ou pour faire de la partition de disque, je n'ai jamais utilisé les lignes de commandes. Pour chaque ligne de commande présenté, il existe une application qui permet, en un clique de faire la même chose.
 Mais dépendement de la plateforme sur laquelle vous travaillez, les lignes de commandes peuvent devenir nécessaire voire obligatoire à connaître (cf les utilisateurs Linux).
-
+J'ai menti ! 
+Il est parfois obligatoire, pour des cas très rare et très précis, d'utiliser les lignes de commandes en windows.  
+L'exemple le plus concret est pour l'installation de python et l'installation de compilateur.
+Vous pouvez directement utiliser des IDE (integrated development environment) dans lesquels l'ensemble des outils nécessaire à la programmation sont reunis ou bien programmer à la dure, sur un editeur de texte et faire la compilation à partir de console, et donc en utilisant des lignes de commandes.
+Alors voici quelques lignes de commande utile pour programmer sur windows sans utiliser d'IDE (comme MVSC, Code::block)
 
 ---
   
