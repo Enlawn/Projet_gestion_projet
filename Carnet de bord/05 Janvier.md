@@ -6,8 +6,10 @@ Ce qui doit être fait pendant la séance :
 - un diagramme de Gantt : https://gantt-online.com/gatt/6f55b48f0a1d06ef6a55b4e2a5 
 (parce que pourquoi pas, je m'en occuperai au pire)  
 - Terminer le contenu du cours / lecture croisée : la partie windows lit le contenu de la partie linux, la partie linux lit le contenu de la partie windows (obligatoire)
-- Correction et amélioration (s'ils ont l'envie ig)  
+- Correction et amélioration   
 
 Ce qui a été fait pendant la séance : 
--
--
+- Lecture croisée
+- Amelioration du cours
+- point avec le prof
+- rappel des échéances
