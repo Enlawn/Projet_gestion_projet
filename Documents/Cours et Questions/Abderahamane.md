@@ -338,9 +338,9 @@ Mais dépendement de la plateforme sur laquelle vous travaillez, les lignes de c
 J'ai menti ! 
 Il est parfois obligatoire, pour des cas très rare et très précis, d'utiliser les lignes de commandes en windows.  
 L'exemple le plus concret est pour l'installation de python et l'installation de compilateur.
-Vous pouvez directement utiliser des IDE (integrated development environment) dans lesquels l'ensemble des outils nécessaire à la programmation sont reunis ou bien programmer à la dure, sur un editeur de texte et faire la compilation à partir de console, et donc en utilisant des lignes de commandes.
+Vous pouvez directement utiliser des IDE (integrated development environment) dans lesquels l'ensemble des outils nécessaire à la programmation sont reunis ou bien programmer à la dure, sur un editeur de texte et faire la compilation à partir de console, et donc en utilisant des lignes de commandes.  
 Alors voici quelques lignes de commande utile pour programmer sur windows sans utiliser d'IDE (comme MVSC, Code::block)
-
++ PARLER DE wsl §
 ---
   
 Quizz :   
