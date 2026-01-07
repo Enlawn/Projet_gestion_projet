@@ -433,10 +433,10 @@ De quoi dépend le BIOS ?
   
 Quel est le BON réflexe avant toute modification avancée du BIOS ?  
 
-A. Modifier plusieurs paramètres
-B. Noter les valeurs d’origine
-C. Lancer un jeu
-D. Mettre à jour Windows
+- Modifier plusieurs paramètres
+- Noter les valeurs d’origine
+- Lancer un jeu
+- Mettre à jour Windows
   
 ---
 
