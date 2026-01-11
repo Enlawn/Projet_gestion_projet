@@ -27,9 +27,10 @@ Les permissions sont définies pour :
 Droits possibles :
 — r : lecture
 — w : écriture
-— x : exécution
+— x : exécution (installation d'applications et autres )
 Exemple :
 - rwxr - xr - -
+Dans cet exemple les utilisateurs ont tous les droits(x,w,r),le groupe a le doit de lire(r),et d'execution (x) mais pas d'ecriture(pas de w),les autres ont seulement le droit de lecture (r)
 
 2.5 Modifier les permissions : commande chmod
 La commande chmod permet de changer les droits d’accès.
@@ -41,12 +42,13 @@ r --->4
 W---->2
 X---->1
 
-chmod 755 script.sh
+chmod 755 script.sh 
+Dans cette exemple on a donne tous les droits à l'utilisateur ,au groupeet aux autres.
 — 7=(4+2+1) : lecture, écriture, exécution pour l'utilisateur
 — 5=(4+1): lecture et exécution pour le groupe et les autres 
 
 Methode symbolique 
-Dans ce cas on doit comprebdre que :
+Dans ce cas on doit compredre que :
 u=users
 g=group
 o=others
@@ -54,9 +56,9 @@ a=all
 + c'est pour ajouter un droit
 - pour supprimer un droit
 Exemple:
-chmod u+r fichier
-chmod g-w fichier
-chmod o+x fichier
+chmod u+r fichier   on ajoute le droit de lecture au fichier 
+chmod g-w fichier   On ajoute le d 'ecrire au fichier 
+chmod o+x fichier   On ajoute le d 'éxecution au fichier 
 Dans cette exemple on donné de lecture au utlisateurs,supprimer le droit d'ecriture au groupe et donné le droit d'execution aux autres .
 
 Changer le propriétaire : commandes chown et chgrp
@@ -94,7 +96,7 @@ sudo useradd -m  nom_utilisateur
 
 3.3 Définir un mot de passe : commande passwd
 sudo passwd nom
-Tu met le nom d'utilisateur pourqui tu veux changer le mot de passe 
+Tu met le nom d'utilisateur pour qui tu veux changer le mot de passe 
 
 3.4 Supprimer un utilisateur : commande userdel
 sudo userdel nom_utlisateur
@@ -105,9 +107,11 @@ L'option -r permet de supprimer de dossietr pessonnel de l'utilisateur
 Les groupes permettent de gérer les permissions plus facilement.
 Prenons par exemple le groupe dev
 
-La commande groupadd permet de creerun groupe et lacommande groupdel permet de supprmer un groupe
-sudo groupadd dev
+La commande groupadd permet de creer un groupe et la commande groupdel permet de supprmer un groupe
+sudo groupadd dev  
+####cette commande creer le groupe appelé dev 
 sudo groupdel dev
+####cette commande creer le groupe appelé dev 
 
 3.6 Ajouter un utilisateur à un groupe : commande usermod
 sudo usermod - aG dev nom_utilisateur
