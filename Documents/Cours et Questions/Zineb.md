@@ -118,3 +118,14 @@ Mettre la recherche au cœur de l’expérience utilisateur
 Offrir un point d’entrée clair et accessible
 
 Guider l’utilisateur vers le moteur de recherche
+Voici une série de questions pertinentes que je peux proposer sur ce cours :
+Q1 : Qu’est-ce qu’un moteur de recherche ?
+Q2 : Que permet de faire un moteur de recherche ?
+Q3 : Qu’est-ce qu’une interface dans un moteur de recherche ?
+Q4 : Quelles sont les qualités principales de l’interface d’un moteur de recherche ?
+Q5 : Quel est l’élément central que l’on remarque immédiatement dans l’interface ?
+Q6 : À quoi sert la barre d’adresse d’un navigateur ?
+Q7 : Quels types de contenus peuvent apparaître dans la section “Actualités” ?
+Q8 : Que peut-on voir dans la section météo ?
+Q9 : Où se trouve la barre de recherche supérieure ?
+Q10 : Quels sont les deux rôles de la barre d’adresse ?
