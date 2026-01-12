@@ -119,7 +119,8 @@ Offrir un point d’entrée clair et accessible
 
 Guider l’utilisateur vers le moteur de recherche
 Voici une série de questions pertinentes que je peux proposer sur ce cours :
-Q1 : Qu’est-ce qu’un moteur de recherche ?
+Q1 : Qu’est-ce qu’un moteur de recherche ? 
+
 Q2 : Que permet de faire un moteur de recherche ?
 Q3 : Qu’est-ce qu’une interface dans un moteur de recherche ?
 Q4 : Quelles sont les qualités principales de l’interface d’un moteur de recherche ?
