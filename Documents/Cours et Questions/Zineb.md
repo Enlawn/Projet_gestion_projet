@@ -4,6 +4,8 @@ Interface d’un moteur de recherche (exemple : Windows / navigateur web) :
 Un moteur de recherche est un service informatique qui permet de rechercher des informations sur Internet à partir de mots-clés.
 Exemples : Google, Bing, Yahoo, DuckDuckGo. Il aide l’utilisateur à :rouver des sites web
 
+
+
 Lire des actualités
 
 Regarder des vidéos
@@ -13,6 +15,8 @@ Qu’est-ce que l’interface d’un moteur de recherche déjà ?
 
 L’interface est la première page que l’on voit lorsqu’on ouvre un navigateur (comme Edge, Chrome ou Firefox).
 C’est l’espace visuel qui permet à l’utilisateur d’interagir avec le moteur de recherche.
+<img width="931" height="712" alt="interface-google-chrome-009" src="https://github.com/user-attachments/assets/5199f898-0216-43f1-8f72-08925c311220" />
+
 
 Elle est conçue pour être :
 
