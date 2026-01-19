@@ -1,6 +1,8 @@
 # Avancement du projet au 12 janvier 2026, 2 semaines avant la date de fin
 
-## Fiche GAMAE -> à ajouter
+## Fiche GAMAE ->
+<img width="2060" height="1173" alt="image" src="https://github.com/user-attachments/assets/c7bfe37e-4dcc-4ed2-9612-5a3b200a1a57" />
+
 
 ## Notre jeu sérieux en quelques mots : 
 
