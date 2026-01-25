@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Jeu sérieux – Linux & Windows</title>
+
+<style>
+/* GLOBAL */
+body {
+  font-family: 'Segoe UI', Roboto, Arial, sans-serif;
+  margin: 0;
+  background: radial-gradient(circle at top, #0f2027, #203a43, #2c5364);
+  color: #eaeaea;
+  line-height: 1.7;
+}
+h1, h2, h3 { margin-top: 0; }
+
+/* HEADER */
+#header {
+  background: linear-gradient(120deg, #0078d4, #00b7c3);
+  color: white;
+  text-align: center;
+  padding: 6em 1em;
+}
+#header h1 { font-size: 3em; }
+#header p { font-size: 1.2em; }
+
+/* SECTIONS */
+.main { padding: 4em 1em; }
+.container {
+  max-width: 1100px;
+  margin: auto;
+  background: rgba(255,255,255,0.06);
+  padding: 3em;
+  border-radius: 18px;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+  backdrop-filter: blur(6px);
+}
+.major h2 {
+  text-align: center;
+  font-size: 2.3em;
+  background: linear-gradient(90deg, #00c6ff, #7ee8fa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* CARDS */
+.cards {
+  display: flex;
+  gap: 2em;
+  margin-top: 2em;
+}
+.os-card {
+  flex: 1;
+  padding: 2em;
+  border-radius: 18px;
+  box-shadow: 0 15px 30px rgba(0,0,0,0.4);
+}
+.windows { background: linear-gradient(135deg, #0a66c2, #0078d4); }
+.linux { background: linear-gradient(135deg, #1b5e20, #43a047); }
+.neutral { background: linear-gradient(135deg, #37474f, #546e7a); }
+
+/* LIENS PROJET */
+.project-links a {
+  display: inline-block;
+  margin-top: 1em;
+  color: #00e5ff;
+  font-weight: bold;
+  text-decoration: none;
+  background: rgba(0,0,0,0.4);
+  padding: 0.4em 1em;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+.project-links a:hover {
+  background: rgba(0,229,255,0.3);
+  color: white;
+}
+
+/* FOOTER */
+#footer {
+  text-align: center;
+  padding: 2em;
+  color: #b0bec5;
+}
+
+/* RESPONSIVE */
+@media(max-width:900px){
+  .cards{flex-direction:column;}
+  #header h1{font-size:2.2em;}
+}
+</style>
+</head>
+
+<body>
+
+<!-- HEADER -->
+<section id="header">
+  <h1>Jeu sérieux Linux & Windows</h1>
+  <p>Présentation d’un projet pédagogique pour débutants</p>
+</section>
+
+<!-- REALISATION -->
+<section class="main">
+<div class="container">
+<header class="major">
+<h2>Réalisation du projet</h2>
+</header>
+
+<p>
+Après la répartition des sujets, il a fallu rédiger le contenu des cours, aides et questions qui seraient utilisés pour le jeu.
+Les sujets ont été répartis en fonction des affinités de chacun afin que tous participent activement au projet.
+</p>
+
+<p>
+Mouhamed et Abou-Lahat se sont occupés de Linux, avec une introduction aux lignes de commandes et à la gestion des utilisateurs.
+</p>
+
+<p>
+Ziad et Zineb se sont occupés de la partie Windows : paramètres essentiels, navigateur internet et utilisation.
+</p>
+
+<p>
+Abderahamane a traité l’explorateur de fichiers, le benchmarking, le monitoring, le BIOS, les commandes Windows et WSL.
+</p>
+
+<div class="cards">
+  <div class="os-card linux">
+    <h3>🐧 PARTIE Linux</h3>
+    <p>Commandes Linux, terminal et utilisateurs.</p>
+  </div>
+
+  <div class="os-card windows">
+    <h3>🪟 PARTIE Windows</h3>
+    <p>Explorateur, paramètres, matériel et WSL.</p>
+  </div>
+
+  <div class="os-card neutral">
+    <h3>👥 Expérience utilisateur</h3>
+    <p>Contenus pédagogiques et ergonomie du jeu.</p>
+  </div>
+</div>
+
+</div>
+</section>
+
+<!-- PROJET -->
+<section class="main">
+<div class="container">
+<header class="major">
+<h2>Le projet en lui-même</h2>
+<p>Les réalisations concrètes du projet</p>
+</header>
+
+<div class="cards project-links">
+  <div class="os-card neutral">
+    <h3>🌐 Site vitrine</h3>
+    <p>Présentation officielle du projet.</p>
+    <a href="#">Ce site</a>
+  </div>
+
+  <div class="os-card linux">
+    <h3>📚 Cours & Questions</h3>
+    <p>Ressources pédagogiques disponibles sur GitHub.</p>
+    <a href="https://github.com/Enlawn/Projet_gestion_projet/tree/main/Documents/Cours%20et%20Questions" target="_blank">
+      Voir sur GitHub
+    </a>
+  </div>
+
+  <div class="os-card windows">
+    <h3>🎮 Le jeu WinLin</h3>
+    <p>Le jeu interactif Linux & Windows.</p>
+    <a href="https://winlin.onrender.com/" target="_blank">
+      Lancer le jeu
+    </a>
+  </div>
+</div>
+
+</div>
+</section>
+
+<!-- FOOTER -->
+<section id="footer">
+<p>&copy; 2025 – Projet pédagogique Linux & Windows</p>
+</section>
+
+</body>
+</html>
