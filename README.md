@@ -7,3 +7,6 @@ Personne participant au projet :
 - RAFIYI Ziad
 - NGOM Mouhamed
 - Abou Lahat
+
+lien vers la présentation :
+https://www.canva.com/design/DAG-8QVjnp8/7NGiL_FkK_-bgfdyWmjBXQ/edit?utm_content=DAG-8QVjnp8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
